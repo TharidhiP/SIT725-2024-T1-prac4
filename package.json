@@ -1,0 +1,28 @@
+{
+  "name": "sit725-2024-t1-prac4",
+  "version": "1.0.0",
+  "description": "SIT725 4.2P",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TharidhiP/SIT725-2024-T1-prac4.git"
+  },
+  "keywords": [
+    "Express",
+    "NodeJs"
+  ],
+  "author": "Tharidhi Perera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TharidhiP/SIT725-2024-T1-prac4/issues"
+  },
+  "homepage": "https://github.com/TharidhiP/SIT725-2024-T1-prac4#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^4.17.2"
+  }
+}
